@@ -1,3 +1,6 @@
-Dashboard hỗ trợ đội Marketing/Truyền thông giám sát toàn diện các thảo luận trên nhiều nền tảng. Người dùng có thể theo dõi số lượng bài viết, bình luận, tương tác theo ngày, phân tích sắc thái cảm xúc và xu hướng thảo luận theo từng khía cạnh: thương hiệu, sản phẩm, khuyến mãi hay khác. Điều này giúp phát hiện sớm dấu hiệu tiêu cực và nắm bắt tâm lý người dùng.
-
-Ngoài ra, dashboard cung cấp thống kê hiệu quả chiến dịch truyền thông, cho biết nền tảng nào tạo nhiều tương tác nhất, chủ đề nào được quan tâm nhiều nhất, từ đó giúp tối ưu nội dung, kênh phân phối và phản ứng nhanh nếu có khủng hoảng truyền thông.
+Trong bối cảnh mạng xã hội đóng vai trò quan trọng trong việc định hình nhận thức và hành vi người tiêu dùng, việc theo dõi và phân tích thảo luận trên các nền tảng social media trở thành công cụ thiết yếu cho đội ngũ Marketing/Truyền thông.
+Dự án này xây dựng một dashboard phân tích dữ liệu thảo luận về thương hiệu/sản phẩm nhằm hỗ trợ doanh nghiệp:
+- Nắm bắt xu hướng quan tâm của khách hàng theo thời gian
+- Phân tích sắc thái cảm xúc xoay quanh từng chủ đề
+- Đánh giá hiệu quả các chiến dịch truyền thông trên từng nền tảng
+→ Mục tiêu cuối cùng là đưa ra gợi ý chiến lược nhằm tối ưu nội dung, phân phối và phản ứng nhanh trước các rủi ro truyền thông tiềm ẩn.
