@@ -1,6 +1,8 @@
-Trong bối cảnh mạng xã hội đóng vai trò quan trọng trong việc định hình nhận thức và hành vi người tiêu dùng, việc theo dõi và phân tích thảo luận trên các nền tảng social media trở thành công cụ thiết yếu cho đội ngũ Marketing/Truyền thông.
-Dự án này xây dựng một dashboard phân tích dữ liệu thảo luận về thương hiệu/sản phẩm nhằm hỗ trợ doanh nghiệp:
-- Nắm bắt xu hướng quan tâm của khách hàng theo thời gian
-- Phân tích sắc thái cảm xúc xoay quanh từng chủ đề
-- Đánh giá hiệu quả các chiến dịch truyền thông trên từng nền tảng
-→ Mục tiêu cuối cùng là đưa ra gợi ý chiến lược nhằm tối ưu nội dung, phân phối và phản ứng nhanh trước các rủi ro truyền thông tiềm ẩn.
+- Mục tiêu:
+Xây dựng một dashboard giám sát mạng xã hội nhằm hỗ trợ đội Marketing/Truyền thông theo dõi mức độ thảo luận, cảm xúc và tương tác về thương hiệu, sản phẩm, khuyến mãi trên các nền tảng như Facebook, YouTube, TikTok và báo chí.
+- Vấn đề đặt ra:
+Trước sự bùng nổ về số lượng bài viết, bình luận và tương tác trên mạng xã hội, doanh nghiệp gặp khó khăn trong việc nắm bắt kịp thời các phản hồi của người tiêu dùng cũng như kiểm soát khủng hoảng truyền thông. Do đó, cần một công cụ trực quan giúp tổng hợp, phân tích và phát hiện sớm các rủi ro tiềm ẩn, đồng thời đánh giá hiệu quả chiến dịch một cách toàn diện.
+- Phạm vi dữ liệu:
+Dữ liệu được thu thập từ các nền tảng mạng xã hội, bao gồm: tên nền tảng, ngày đăng bài, số lượt tương tác (like, share, comment), sắc thái cảm xúc (positive, neutral, negative), nội dung bài viết và chủ đề phân loại (brand, product, promotion, others).
+- Kết quả kỳ vọng:
+Dashboard giúp theo dõi xu hướng theo thời gian, phân tích sắc thái cảm xúc, đo lường hiệu quả từng nền tảng và chủ đề, từ đó hỗ trợ ra quyết định nhanh chóng và chính xác.
