@@ -1,0 +1,3 @@
+Dashboard hỗ trợ đội Marketing/Truyền thông giám sát toàn diện các thảo luận trên nhiều nền tảng. Người dùng có thể theo dõi số lượng bài viết, bình luận, tương tác theo ngày, phân tích sắc thái cảm xúc và xu hướng thảo luận theo từng khía cạnh: thương hiệu, sản phẩm, khuyến mãi hay khác. Điều này giúp phát hiện sớm dấu hiệu tiêu cực và nắm bắt tâm lý người dùng.
+
+Ngoài ra, dashboard cung cấp thống kê hiệu quả chiến dịch truyền thông, cho biết nền tảng nào tạo nhiều tương tác nhất, chủ đề nào được quan tâm nhiều nhất, từ đó giúp tối ưu nội dung, kênh phân phối và phản ứng nhanh nếu có khủng hoảng truyền thông.
